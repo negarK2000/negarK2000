@@ -48,6 +48,7 @@ Welcome to my GitHub profile! I am an enthusiastic software developer driven by 
 ## 🚀 Featured Projects
 
 - [Search Engine](https://github.com/negarK2000/InformationRetrievalSystem)
+- [Handwritten Digit Recognition](https://github.com/negarK2000/ComputationalIntelligence/tree/master/HandwrittenDigitRecognition)
 - [Internet of Things Projects](https://github.com/negarK2000/IoT)
 - [Course Website](https://github.com/negarK2000/InternetEngineering/tree/main/InternetEngineeringCourseWebpage)
 - [Music Recognition](https://github.com/negarK2000/SignalsAndSystems/tree/master/MusicRecognitionSystem)
