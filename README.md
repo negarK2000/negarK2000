@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I am an enthusiastic software developer driven by 
 -->
 
   <a href="https://github.com/negarK2000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negarK2000&hide_progress=true&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negarK2000&hide_progress=true&layout=compact&theme=neon&hide_border=true" alt="Top Languages" />
 
 ---
 
