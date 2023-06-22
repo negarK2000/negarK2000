@@ -29,7 +29,8 @@ Welcome to my GitHub profile! I am an enthusiastic software developer driven by 
   <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="left" alt="LaTex" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   
-  <br> <br>
+<br />
+<br />
   
 ---
 
