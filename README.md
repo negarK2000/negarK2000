@@ -1,4 +1,5 @@
-# ❄️ Hi there, I'm Negar! 👋
+<!--# ❄️ Hi there, I'm Negar! 👋-->
+![❄️ Hi there, I'm Negar!👋](https://github.com/negarK2000/negarK2000/blob/main/intro.png)
 
 <!-- Introduction -->
 👩‍💻 Software Developer | 🌍 Explorer | 📽️ movie enthusiast | 📚 Lifelong Learner
