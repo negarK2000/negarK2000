@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I am an enthusiastic software developer driven by 
 - [Music Recognition](https://github.com/negarK2000/SignalsAndSystems/tree/master/MusicRecognitionSystem)
 - [Image Compression](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/ImageCompression)
 - [Denoising Audio Signals](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/DenoisingAudioSignals)
-- [XV6 Projects](https://github.com/negarK2000/XV6)
+- [XV6 OS Projects (Kernel Programming)](https://github.com/negarK2000/XV6)
 
 ---
 
