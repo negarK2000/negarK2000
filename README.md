@@ -47,13 +47,14 @@ Welcome to my GitHub profile! I am an enthusiastic software developer driven by 
 <!-- Projects -->
 ## 🚀 Featured Projects
 
-- [Search Engine](https://github.com/negarK2000/InformationRetrievalSystem)
-- [Handwritten Digit Recognition](https://github.com/negarK2000/ComputationalIntelligence/tree/master/HandwrittenDigitRecognition)
+- [Search Engine (from Scratch)](https://github.com/negarK2000/InformationRetrievalSystem)
+- [Handwritten Digit Recognition (from Scratch)](https://github.com/negarK2000/ComputationalIntelligence/tree/master/HandwrittenDigitRecognition): Training an Artificial Neural Network (ANN) by Mini-batch Gradient Descent.
+- [Evolutionary Games](https://github.com/negarK2000/ComputationalIntelligence/tree/master/EvolutionaryGames): Training an Artificial Neural Network (ANN) by Evolutionary Algorithm.
 - [Internet of Things Projects](https://github.com/negarK2000/IoT)
 - [Course Website](https://github.com/negarK2000/InternetEngineering/tree/main/InternetEngineeringCourseWebpage)
-- [Music Recognition](https://github.com/negarK2000/SignalsAndSystems/tree/master/MusicRecognitionSystem)
-- [Image Compression](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/ImageCompression)
-- [Denoising Audio Signals](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/DenoisingAudioSignals)
+- [Music Recognition (from Scratch)](https://github.com/negarK2000/SignalsAndSystems/tree/master/MusicRecognitionSystem)
+- [Image Compression (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/ImageCompression)
+- [Denoising Audio Signals (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/DenoisingAudioSignals)
 - [XV6 OS Projects (Kernel Programming)](https://github.com/negarK2000/XV6)
 
 ---
