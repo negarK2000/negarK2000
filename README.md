@@ -48,15 +48,15 @@ Welcome to my GitHub profile! I am an enthusiastic software developer driven by 
 <!-- Projects -->
 ## 🚀 Featured Projects
 
-- [Search Engine (from Scratch)](https://github.com/negarK2000/InformationRetrievalSystem)
-- [Handwritten Digit Recognition (from Scratch)](https://github.com/negarK2000/ComputationalIntelligence/tree/master/HandwrittenDigitRecognition): Training an Artificial Neural Network (ANN) by Mini-batch Gradient Descent.
-- [Evolutionary Games](https://github.com/negarK2000/ComputationalIntelligence/tree/master/EvolutionaryGames): Training an Artificial Neural Network (ANN) by Evolutionary Algorithm.
-- [Internet of Things Projects](https://github.com/negarK2000/IoT)
-- [Course Website](https://github.com/negarK2000/InternetEngineering/tree/main/InternetEngineeringCourseWebpage)
-- [Music Recognition (from Scratch)](https://github.com/negarK2000/SignalsAndSystems/tree/master/MusicRecognitionSystem)
-- [Image Compression (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/ImageCompression)
-- [Denoising Audio Signals (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/DenoisingAudioSignals)
-- [XV6 OS Projects (Kernel Programming)](https://github.com/negarK2000/XV6)
+- [Information Retrieval System (from Scratch)](https://github.com/negarK2000/InformationRetrievalSystem): <br> A powerful search engine tailored for Persian news, featuring advanced functionalities such as vector-based ranking and clustering techniques, delivers efficient and accurate search results customized to user queries.
+- [Handwritten Digit Recognition (from Scratch)](https://github.com/negarK2000/ComputationalIntelligence/tree/master/HandwrittenDigitRecognition): <br> Trained an Artificial Neural Network (ANN) by Mini-batch Gradient Descent.
+- [Evolutionary Games](https://github.com/negarK2000/ComputationalIntelligence/tree/master/EvolutionaryGames): <br> Trained an Artificial Neural Network (ANN) by Evolutionary Algorithm.
+- [Internet of Things Projects](https://github.com/negarK2000/IoT): <br> a set of IoT projects developed using the Arduino IDE and simulated using the Proteus software. Each project showcases the application of IoT concepts and technologies.
+- [Course Website](https://github.com/negarK2000/CourseWebpsite): <br> I have designed a simple website as a front-end assignment for students who are learning Internet Engineering.
+- [Music Recognition (from Scratch)](https://github.com/negarK2000/SignalsAndSystems/tree/master/MusicRecognitionSystem): <br> 
+- [Image Compression (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/ImageCompression): <br> 
+- [Denoising Audio Signals (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/DenoisingAudioSignals): <br> 
+- [XV6 OS Projects (Kernel Programming)](https://github.com/negarK2000/XV6): <br> 
 
 ---
 
