@@ -53,10 +53,10 @@ Welcome to my GitHub profile! I am an enthusiastic software developer driven by 
 - [Evolutionary Games](https://github.com/negarK2000/ComputationalIntelligence/tree/master/EvolutionaryGames): <br> Trained an Artificial Neural Network (ANN) by Evolutionary Algorithm.
 - [Internet of Things Projects](https://github.com/negarK2000/IoT): <br> a set of IoT projects developed using the Arduino IDE and simulated using the Proteus software. Each project showcases the application of IoT concepts and technologies.
 - [Course Website](https://github.com/negarK2000/CourseWebpsite): <br> I have designed a simple website as a front-end assignment for students who are learning Internet Engineering.
-- [Music Recognition (from Scratch)](https://github.com/negarK2000/SignalsAndSystems/tree/master/MusicRecognitionSystem): <br> 
+- [Music Recognition (from Scratch)](https://github.com/negarK2000/SignalsAndSystems/tree/master/MusicRecognitionSystem): <br> Implemented a music identification system that utilizes Fourier transform and spectrogram analysis to enable users to identify songs by analyzing their audio signals, similar to a simplified version of Shazam.
 - [Image Compression (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/ImageCompression): <br> 
 - [Denoising Audio Signals (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/DenoisingAudioSignals): <br> 
-- [XV6 OS Projects (Kernel Programming)](https://github.com/negarK2000/XV6): <br> 
+- [XV6 OS Projects (Kernel Programming)](https://github.com/negarK2000/XV6): <br> Enhanced XV6 OS with new system calls, waiting queue, dispatcher, and unit operations. Provides process information, efficient thread management, and flexible data manipulation capabilities.
 
 ---
 
@@ -89,9 +89,11 @@ Thanks for visiting my profile! Don't forget to check out my [portfolio](https:/
 <!-- Other Sections (Optional) -->
 <details>
  <summary><h3>🔥 My Interests as a Developer</h3></summary>
-I thrive on constant learning and the challenges that come with this dynamic field. While I have a wide range of knowledge in computer engineering and science, my primary focus has been on Software Engineering and Development, Web Development, Computer Networks and Communication, Embedded Systems, and Internet of Things (IoT). Recently, I have become interested in learning more about Game Development. I believe in writing clean, maintainable code and enjoy finding elegant solutions to intricate problems.
+  I thrive on constant learning and the challenges that come with this dynamic field. While I have a wide range of knowledge in computer engineering and science, my primary focus has been on Software Engineering and Development, Web Development, Computer Networks and Communication, Embedded Systems, and Internet of Things (IoT). Recently, I have become interested in learning more about Game Development.
 
-I'm excited to collaborate, tackle new projects, and contribute to the ever-evolving tech landscape. Let's connect and embark on this amazing journey together!
+  I believe in writing clean, maintainable code and enjoy finding elegant solutions to intricate problems.
+
+  I'm excited to collaborate, tackle new projects, and contribute to the ever-evolving tech landscape. Let's connect and embark on this amazing journey together!
 </details>
   
 <!-- Footer -->
