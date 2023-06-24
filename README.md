@@ -54,8 +54,8 @@ Welcome to my GitHub profile! I am an enthusiastic software developer driven by 
 - [Internet of Things Projects](https://github.com/negarK2000/IoT): <br> a set of IoT projects developed using the Arduino IDE and simulated using the Proteus software. Each project showcases the application of IoT concepts and technologies.
 - [Course Website](https://github.com/negarK2000/CourseWebpsite): <br> I have designed a simple website as a front-end assignment for students who are learning Internet Engineering.
 - [Music Recognition (from Scratch)](https://github.com/negarK2000/SignalsAndSystems/tree/master/MusicRecognitionSystem): <br> Implemented a music identification system that utilizes Fourier transform and spectrogram analysis to enable users to identify songs by analyzing their audio signals, similar to a simplified version of Shazam.
-- [Image Compression (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/ImageCompression): <br> 
-- [Denoising Audio Signals (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/DenoisingAudioSignals): <br> 
+- [Image Compression (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/ImageCompression): <br> I utilized the principles of linear algebra to compress uncompressed BMP photos. By employing SVD decomposition, I reduced their size without relying on image compression libraries.
+- [Denoising Bitcoin's Price Graph (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/Denoising): <br> I utilized the principles of linear algebra and the least-squares technique to denoise Bitcoin's price graph, providing a clearer representation of underlying trends and patterns.
 - [XV6 OS Projects (Kernel Programming)](https://github.com/negarK2000/XV6): <br> Enhanced XV6 OS with new system calls, waiting queue, dispatcher, and unit operations. Provides process information, efficient thread management, and flexible data manipulation capabilities.
 
 ---
