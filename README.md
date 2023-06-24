@@ -56,6 +56,7 @@ Welcome to my GitHub profile! I am an enthusiastic software developer driven by 
 - [Music Identification (from Scratch)](https://github.com/negarK2000/SignalsAndSystems/tree/master/MusicRecognitionSystem): <br> Implemented a music identification program utilizing Fourier transform and spectrogram analysis, enabling users to identify songs by analyzing their audio signals, similar to a simplified version of Shazam.
 - [Image Compression (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/ImageCompression): <br> I utilized the principles of linear algebra to compress uncompressed BMP photos. By employing SVD decomposition, I reduced their size without relying on image compression libraries.
 - [Denoising Bitcoin's Price Graph (from Scratch)](https://github.com/negarK2000/AppliedLinearAlgebra/tree/master/Denoising): <br> I utilized the principles of linear algebra and the least-squares technique to denoise Bitcoin's price graph, providing a clearer representation of underlying trends and patterns.
+- [Image Contrast Enhancement (from Scratch)](https://github.com/negarK2000/Multimedia/tree/master/HistogramEqualization): <br> Improved image quality by enhancing contrast using histogram equalization to evenly distribute colors.
 - [XV6 OS Projects (Kernel Programming)](https://github.com/negarK2000/XV6): <br> Enhanced XV6 OS with new system calls, waiting queue, dispatcher, and unit operations. Provides process information, efficient thread management, and flexible data manipulation capabilities.
 
 ---
