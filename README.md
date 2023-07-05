@@ -85,7 +85,7 @@ Welcome to my GitHub profile! I am an enthusiastic software developer driven by 
 -->
 You can reach me via [email](mailto:n2000karami@gmail.com). 
 <!-- or connect with me on [LinkedIn](https://www.linkedin.com/in/yourname). Let's have a chat and discuss our shared interests! -->
-Thanks for visiting my profile! Don't forget to check out my [portfolio](https://negark2000.github.io/MyCV) for more details about my work.
+<!-- Thanks for visiting my profile! Don't forget to check out my [portfolio](https://negark2000.github.io/MyCV) for more details about my work. -->
 
 ---
 
@@ -100,6 +100,6 @@ Thanks for visiting my profile! Don't forget to check out my [portfolio](https:/
 <!-- Footer -->
 <hr>
 <p align="center">
-  <a href="https://negark2000.github.io/MyCV">negark2000.github.io/MyCV</a> •
+<!--   <a href="https://negark2000.github.io/MyCV">negark2000.github.io/MyCV</a> • -->
   <a href="mailto:n2000karami@gmail.com">n2000karami@gmail.com</a>
 </p>
