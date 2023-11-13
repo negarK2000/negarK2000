@@ -84,8 +84,7 @@ Welcome to my GitHub profile! I am an enthusiastic software developer driven by 
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?&style=flat&logo=google-chrome&logoColor=white)](n2000karami@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/negarK2000)
 -->
-You can reach me via [email](mailto:n2000karami@gmail.com). 
-or connect with me on [LinkedIn](https://www.linkedin.com/in/n2000karami). Let's have a chat and discuss our shared interests!
+You can reach me via [email](mailto:n2000karami@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/n2000karami). Let's have a chat and discuss our shared interests! <br />
 Thanks for visiting my profile! Don't forget to check out my [portfolio](https://negark2000.github.io/Portfolio) for more details about my work.
 
 ---
