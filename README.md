@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I am an enthusiastic computer engineer driven by a
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects and Researchs
 
 - <details> <summary><a href="https://github.com/negarK2000/InformationRetrievalSystem"> Information Retrieval System  (from Scratch) </a></summary> A powerful search engine tailored for Persian news, featuring advanced functionalities such as vector-based ranking and clustering techniques, delivers efficient and accurate search results customized to user queries.</details>
 - <details> <summary> <a href="https://github.com/negarK2000/ComputationalIntelligence/tree/master/HandwrittenDigitRecognition"> Handwritten Digit Recognition (from Scratch) </a> </summary> Trained an Artificial Neural Network (ANN) by Mini-batch Gradient Descent. </details>
